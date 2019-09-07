@@ -1,0 +1,10 @@
+C:\Users\tanke\source\repos\BCGDV Application\BCGDV Application\bin\Debug\BCGDV Application.exe.config
+C:\Users\tanke\source\repos\BCGDV Application\BCGDV Application\bin\Debug\BCGDV Application.exe
+C:\Users\tanke\source\repos\BCGDV Application\BCGDV Application\bin\Debug\BCGDV Application.pdb
+C:\Users\tanke\source\repos\BCGDV Application\BCGDV Application\obj\Debug\BCGDV Application.csprojAssemblyReference.cache
+C:\Users\tanke\source\repos\BCGDV Application\BCGDV Application\obj\Debug\BCGDV Application.csproj.CoreCompileInputs.cache
+C:\Users\tanke\source\repos\BCGDV Application\BCGDV Application\obj\Debug\BCGDV Application.exe
+C:\Users\tanke\source\repos\BCGDV Application\BCGDV Application\obj\Debug\BCGDV Application.pdb
+C:\Users\tanke\source\repos\BCGDV Application\BCGDV Application\bin\Debug\Newtonsoft.Json.dll
+C:\Users\tanke\source\repos\BCGDV Application\BCGDV Application\bin\Debug\Newtonsoft.Json.xml
+C:\Users\tanke\source\repos\BCGDV Application\BCGDV Application\obj\Debug\BCGDV Application.csproj.CopyComplete
